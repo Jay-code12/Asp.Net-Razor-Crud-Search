@@ -1,11 +1,11 @@
 # ASP.NET Core CRUD Using Entity Framework Core and SQL Server
 
-In this video, we are going to create an ASP.NET Razor Pages CRUD app using Entity Framework Core and SQL Server. 
+create an ASP.NET Razor Pages CRUD app using Entity Framework Core and SQL Server. 
 
 ## Introduction
 ## Create Project 
-## Create Database MS SQL Server
-## Asp.NET Core Connection Db MS SQL Server
+## Create Database SQL Server
+## Asp.NET Core Connection Db SQL Server
 ## Install Nugets ASP.NET Core ( Entity Framework )
 ## Create Application Db Context Class
 ## Register Database Connections
@@ -55,8 +55,4 @@ In this video, we are going to create an ASP.NET Razor Pages CRUD app using Enti
 ## Sporting  ASP.NET Core
 
 
-
-we are going to create an ASP.NET Razor Pages Full CRUD Operations application using Entity Framework Core Code First approach and SQL Server. 
-
-We will be using the Core .NET 8 
 
