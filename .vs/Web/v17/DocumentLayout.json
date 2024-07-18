@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|c:\\users\\owner\\source\\repos\\asp.net-razor-crud-search\\web\\web\\models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|solutionrelative:web\\models\\producttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|c:\\users\\owner\\source\\repos\\asp.net-razor-crud-search\\web\\web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|solutionrelative:web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|c:\\users\\owner\\source\\repos\\asp.net-razor-crud-search\\web\\web\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|solutionrelative:web\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|c:\\users\\owner\\source\\repos\\asp.net-razor-crud-search\\web\\web\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|solutionrelative:web\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|c:\\users\\owner\\source\\repos\\asp.net-razor-crud-search\\web\\web\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|solutionrelative:web\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|c:\\users\\owner\\source\\repos\\asp.net-razor-crud-search\\web\\web\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61AC1156-8D1A-47DE-B142-3049D47B541A}|Web\\Web.csproj|solutionrelative:web\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTable.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Models\\ProductTable.cs",
+              "RelativeDocumentMoniker": "Web\\Models\\ProductTable.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Models\\ProductTable.cs",
+              "RelativeToolTip": "Web\\Models\\ProductTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:27:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Web\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Web\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:50:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Web\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Web\\Pages\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T20:50:54.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Web\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Web\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:26:39.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Web\\Pages\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T19:22:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\Asp.net-Razor-Crud-Search\\Web\\Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Web\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T20:34:41.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
